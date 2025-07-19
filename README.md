@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hey, I'm Sameer Rolly
 
-<!--
-**sameerrolly/sameerrolly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python & Django Developer | 🌱 AI/ML Enthusiast  
+🎓 IBM Certified Web Developer  
+🔥 Passionate about building real-world tech solutions
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 Skills
+
+- 🐍 Python, Django, Django REST Framework (learning)
+- 🌐 HTML, CSS, Bootstrap  
+- 🛢️ MySQL  
+- 💻 Git, GitHub  
+- 📊 AI/ML Basics
+
+---
+
+# 📂 My Projects
+
+🔸 [HTML to Python Basics](https://github.com/sameerrolly/html-to-python-basics)  
+🔸 [Eco Nature Django Project](https://github.com/sameerrolly/eco-nature-django-project)  
+🔸 [Student Project Demo](https://github.com/sameerrolly/student-project-demo)
+
+---
+ # 📫 Connect with Me
+
+[![LinkedIn – Sameer Rolly](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sameer-rolly-9012b3231)  
+📧 Email: rollysameer@gmail.com
