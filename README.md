@@ -19,7 +19,7 @@
 # 📂 My Projects
 
 🔸 [HTML to Python Basics](https://github.com/sameerrolly/html-to-python-basics)  
-🔸 [Eco Nature Django Project](https://github.com/sameerrolly/eco-nature-django-project)  
+🔸 [Eco Nature Django Project](https://github.com/sameerrolly/eco-nature-django-app)  
 🔸 [Student Project Demo](https://github.com/sameerrolly/student-project-demo)
 
 ---
