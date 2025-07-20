@@ -27,7 +27,10 @@ _Full-stack Django project with user auth, forms, and database._
 
 
 ---
- # 📫 Connect with Me
 
-[![LinkedIn – Sameer Rolly](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sameer-rolly-9012b3231)  
-📧 Email: rollysameer@gmail.com
+## 📫 Connect with Me
+
+- **LinkedIn**: [Sameer Rolly](https://www.linkedin.com/in/sameer-rolly-9012b3231)
+- **Email**: rollysameer@gmail.com
+
+---
