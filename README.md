@@ -8,19 +8,23 @@
 
 # 🚀 Skills
 
-- 🐍 Python, Django, Django REST Framework (learning)
-- 🌐 HTML, CSS, Bootstrap  
-- 🛢️ MySQL  
-- 💻 Git, GitHub  
-- 📊 AI/ML Basics
+- 🐍 Python (proficient), Django (strong grasp), DRF (learning)
+- 🌐 HTML, CSS, Bootstrap
+- 🛢️ MySQL, SQLite
+- 🔧 Git & GitHub
+- 🤖 AI/ML (basics, learning via projects)
 
 ---
 
 # 📂 My Projects
 
-🔸 [HTML to Python Basics](https://github.com/sameerrolly/html-to-python-basics)  
-🔸 [Eco Nature Django Project](https://github.com/sameerrolly/eco-nature-django-app)  
-🔸 [Student Project Demo](https://github.com/sameerrolly/student-project-demo)
+🔹 [MY HTML to Python Basics Notes](https://github.com/sameerrolly/html-to-python-basics)  
+_A beginner-friendly guide covering the transition from HTML to Python._
+
+🔹 [Eco Nature – Django Web App](https://github.com/sameerrolly/eco-nature-django-app)  
+_Full-stack Django project with user auth, forms, and database._
+
+
 
 ---
  # 📫 Connect with Me
